@@ -1,0 +1,3 @@
+001;Estrutura de Dados I;60
+002;Engenharia de Software I;60
+003;Fundamentos Teóricos da Computação;120

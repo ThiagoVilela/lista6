@@ -1,0 +1,3 @@
+D;11122233300;Rodolfo Resende;1200.00Análise Estática
+M;22233344400;Ricardo Terra;1000.00;Arquitetura
+M;33344455500;César Almeida;980.00;Compiladores
